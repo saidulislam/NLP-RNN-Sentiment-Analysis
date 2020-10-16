@@ -1,1 +1,1 @@
-# NLP-RNN-Sentiment-Analysis
+# NLP Sentiment Analysis
